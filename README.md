@@ -1,7 +1,7 @@
 # kodluyoruzilkrepo
 [Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/) Eğitimi kapsamında açtığım ilk repo
 İçerisinde bir adet README.md dosyası, bir adet de index.html, bir resim barındırıyor.
-!(Bu bilgisayar>Belgeler>kodluyoruzilkrepo-main>odev-gorsel)
+!(https://github.com/cunbaba/kodluyoruzilkrepo/blob/main/odev-gorsel.png)
 
 ## Installation
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
